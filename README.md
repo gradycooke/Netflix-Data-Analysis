@@ -8,7 +8,7 @@ This repository contains an exploratory data analysis (EDA) project based on a d
 - Country-wise genre preferences
 - Correlation and distribution of key numerical features
 
-## 🛠Tools & Libraries
+## Tools & Libraries
 - Python (Jupyter Notebook)
 - pandas
 - seaborn
