@@ -16,3 +16,14 @@ This repository contains an exploratory data analysis (EDA) project based on a d
 
 ## Goal
 To apply data analysis and visualization skills to extract meaningful patterns from real-world streaming content data.
+
+## Files
+
+- `Netflix_Uploads_Analysis.ipynb` — Jupyter notebook containing the full exploratory data analysis
+- `netflix_data.csv` — Dataset used in the analysis
+
+## Author
+
+**Grady Cooke**  
+[LinkedIn](https://www.linkedin.com/in/grady-cooke)  
+[GitHub](https://github.com/gradycooke)
